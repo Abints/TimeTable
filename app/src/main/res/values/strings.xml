@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TimeTable</string>
+    <string name="name" />
+    <string-array name="planets_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+
+    </string-array>
+</resources>
